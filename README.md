@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tahamid-hossain/) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thtahamid&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thtahamid&theme=radical&hide_border=true)<br/>
 
 
