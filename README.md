@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tahamid !</h1>
-<h3 align="center">CS student @ Canadian University Dubai</h3>
 
-- 🔭 I’m currently working on [Auranox AI](https://github.com/Tahamid-Hossain/auronox_chatbot)
-
-- 📫 How to reach me **mitahamid13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">https://www.linkedin.com/in/tahamid-hossain/
