@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahamid !</h1>
 
 ## 🌐 Let's connect!:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tahamid-hossain/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahamid-hossain/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thtahamid&theme=radical&hide_border=true)<br/>
