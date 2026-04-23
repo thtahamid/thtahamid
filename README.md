@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I'm currently majoring CS @ Canadian University Dubai, UAE</p>
-**Portfolio in Progress:** <mark>https://thtahamid.github.io/</mark>
+<h2> Portfolio in Progress: <mark>https://thtahamid.github.io/</mark> </h2>
 
 ###
 
