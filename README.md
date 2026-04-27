@@ -5,8 +5,6 @@
 <p align="left">I'm currently majoring CS @ Canadian University Dubai, UAE</p>
 <h2> Portfolio in Progress: <mark>https://thtahamid.github.io/</mark> </h2>
 
-###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=thtahamid.thtahamid&left_color=teal&right_color=red"  />
 
 ###
